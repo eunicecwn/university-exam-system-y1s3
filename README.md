@@ -84,4 +84,4 @@ cd university-exam-system-y1s3
 
 ---
 
-*Group project developed for Object-Oriented Programming coursework*
+*Group project developed for university coursework*
